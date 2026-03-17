@@ -14,6 +14,3 @@ Python
 
 ## Use Case
 Simulates large-scale infrastructure deployment like AWS network automation.
-
-## Run Instructions
-Run the script in Google Colab to generate configs.
